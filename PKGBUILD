@@ -2,8 +2,8 @@
 
 pkgname=plasma-minimal
 pkgdesc="A minimal Plasma Desktop installation"
-pkgver='0.0.1'
-pkgrel=3
+pkgver=0.0.1
+pkgrel=4
 
 url='https://github.com/brunomiguel/minimal-plasma'
 arch=('any')
