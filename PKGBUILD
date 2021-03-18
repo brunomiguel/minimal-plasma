@@ -1,9 +1,9 @@
 # Maintainer: Bruno Miguel <https://twitter.com/brunomiguel>
 
-pkgname=plasma-minimal
+pkgname=minimal-plasma
 pkgdesc="A minimal Plasma Desktop installation"
 pkgver=0.0.1
-pkgrel=4
+pkgrel=5
 
 url='https://github.com/brunomiguel/minimal-plasma'
 arch=('any')
