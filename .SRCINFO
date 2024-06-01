@@ -1,12 +1,12 @@
 pkgbase = minimal-plasma
 	pkgdesc = A minimal Plasma Desktop installation
-	pkgver = 0.0.3
-	pkgrel = 2
+	pkgver = 0.0.4
+	pkgrel = 1
 	url = https://github.com/brunomiguel/minimal-plasma
 	arch = any
 	license = GPL3
 	depends = kvantum
-	depends = kvantum-theme-materia
+	depends = kvantum-qt5
 	depends = plasma-desktop
 	depends = konsole
 	depends = ark
