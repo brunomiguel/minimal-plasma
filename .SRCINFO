@@ -1,7 +1,7 @@
 pkgbase = minimal-plasma
 	pkgdesc = A minimal Plasma Desktop installation
 	pkgver = 0.0.3
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/brunomiguel/minimal-plasma
 	arch = any
 	license = GPL3
@@ -27,8 +27,6 @@ pkgbase = minimal-plasma
 	depends = oxygen
 	depends = plasma-nm
 	depends = plasma-pa
-	depends = konsole
-	depends = okular
 	depends = kate
 	depends = print-manager
 	depends = sddm
